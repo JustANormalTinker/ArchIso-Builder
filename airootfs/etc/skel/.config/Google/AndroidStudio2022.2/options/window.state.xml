@@ -1,0 +1,26 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1440.900" x="720" y="300" />
+    <size key="GridCell.Tab.0.left.0.0.1440.900" width="1394" height="246" />
+    <size key="GridCell.Tab.0.center.0.0.1440.900" width="1394" height="246" />
+    <size key="GridCell.Tab.0.right.0.0.1440.900" width="1394" height="246" />
+    <size key="GridCell.Tab.0.bottom.0.0.1440.900" width="1394" height="246" />
+  </component>
+  <component name="WindowManager">
+    <frame x="-70" y="32" width="1400" height="828" extendedState="6" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="1059" y="681" width="300" height="187" key="ProcessPopupWindow" timestamp="1681476187185">
+      <screen x="0" y="32" width="1440" height="868" />
+    </state>
+    <state x="1059" y="681" width="300" height="187" key="ProcessPopupWindow/0.32.1440.868" timestamp="1681476187185" />
+    <state x="720" y="300" key="WELCOME_SCREEN" timestamp="1681475011477">
+      <screen x="0" y="32" width="1440" height="868" />
+    </state>
+    <state x="720" y="300" key="WELCOME_SCREEN/0.32.1440.868" timestamp="1681475011477" />
+    <state x="267" y="198" width="800" height="666" key="com.android.tools.idea.devicemanager.DeviceManagerWelcomeScreenFrame" timestamp="1681475614412">
+      <screen x="0" y="32" width="1440" height="868" />
+    </state>
+    <state x="267" y="198" width="800" height="666" key="com.android.tools.idea.devicemanager.DeviceManagerWelcomeScreenFrame/0.32.1440.868" timestamp="1681475614412" />
+  </component>
+</application>

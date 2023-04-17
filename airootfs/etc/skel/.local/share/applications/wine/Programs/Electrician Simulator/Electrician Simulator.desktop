@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Electrician Simulator
+Exec=env WINEPREFIX="/home/mihir/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Electrician\\ Simulator\\\\Electrician\\ Simulator.lnk
+Type=Application
+StartupNotify=true
+Path=/home/mihir/Games/Electrician Simulator
+Icon=40B2_Electrician.0
+StartupWMClass=electrician.exe

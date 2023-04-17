@@ -1,0 +1,5 @@
+system:
+  prime: true
+wine:
+  dxvk_version: dxvk-async-1.10.3
+  version: lutris-GE-Proton7-37-x86_64

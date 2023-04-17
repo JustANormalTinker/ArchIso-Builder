@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=== ElAmigos Releases and Updates @ official site ==
+Exec=env WINEPREFIX="/home/mihir/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Electrician\\ Simulator\\\\==\\ ElAmigos\\ Releases\\ and\\ Updates\\ @\\ official\\ site\\ ==.lnk
+Type=Application
+StartupNotify=true
+Path=/home/mihir/Games/Electrician Simulator
+Icon=C8CA__ElAmigos Releases and Updates.0
+StartupWMClass=_elamigos releases and updates.url

@@ -1,0 +1,23 @@
+<monitors version="2">
+  <configuration>
+    <logicalmonitor>
+      <x>0</x>
+      <y>0</y>
+      <scale>1</scale>
+      <primary>yes</primary>
+      <monitor>
+        <monitorspec>
+          <connector>VGA-1</connector>
+          <vendor>DEL</vendor>
+          <product>DELL E1709W</product>
+          <serial>J672H97Q2DHL</serial>
+        </monitorspec>
+        <mode>
+          <width>1440</width>
+          <height>900</height>
+          <rate>59.887</rate>
+        </mode>
+      </monitor>
+    </logicalmonitor>
+  </configuration>
+</monitors>

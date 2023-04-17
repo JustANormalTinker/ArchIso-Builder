@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=PC Building Simulator 2
+Exec=env WINEPREFIX="/home/mihir/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\PC\\ Building\\ Simulator\\ 2\\\\PC\\ Building\\ Simulator\\ 2.lnk
+Type=Application
+StartupNotify=true
+Path=/home/mihir/Games/PC Building Simulator 2
+Icon=1AA6_PCBS2_0.0
+StartupWMClass=start.bat

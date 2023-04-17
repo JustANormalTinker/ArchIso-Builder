@@ -1,0 +1,5 @@
+game:
+  exe: /home/mihir/Games/Crusader Kings II/CK2game.exe
+system: {}
+wine:
+  version: lutris-GE-Proton7-37-x86_64

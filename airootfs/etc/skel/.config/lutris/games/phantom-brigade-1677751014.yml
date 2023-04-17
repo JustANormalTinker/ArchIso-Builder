@@ -1,0 +1,5 @@
+game:
+  exe: /home/mihir/Games/Phantom Brigade/PhantomBrigade.exe
+system: {}
+wine:
+  dxvk_version: v1.10.3

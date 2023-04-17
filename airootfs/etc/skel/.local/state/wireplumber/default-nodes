@@ -1,0 +1,9 @@
+[default-nodes]
+default.configured.audio.sink=bluez_output.9F_81_39_C2_0C_DB.1
+default.configured.audio.sink.0=bluez_output.9F_81_39_C2_0C_DB.1
+default.configured.audio.sink.1=alsa_output.pci-0000_00_1b.0.analog-stereo
+default.configured.audio.sink.2=bluez_output.00_9E_C8_5F_FC_0D.1
+default.configured.audio.sink.3=audiorelay-speakers
+default.configured.audio.sink.4=audiorelay-virtual-mic-sink
+default.configured.audio.source=audiorelay-virtual-mic-sink
+default.configured.audio.source.0=audiorelay-virtual-mic-sink

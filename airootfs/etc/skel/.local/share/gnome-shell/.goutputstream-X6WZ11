@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="scrcpy.desktop" score="13" last-seen="1678783388"/>
+    <application id="kdiskmark.desktop" score="19" last-seen="1678276310"/>
+    <application id="org.gnome.FileRoller.desktop" score="33" last-seen="1678366600"/>
+    <application id="org.gnome.TextEditor.desktop" score="13" last-seen="1678364656"/>
+    <application id="org.gnome.Shell.Extensions.GSConnect.Preferences.desktop" score="34" last-seen="1678879047"/>
+    <application id="discord.desktop" score="137" last-seen="1678282124"/>
+    <application id="org.qbittorrent.qBittorrent.desktop" score="768" last-seen="1678794284"/>
+    <application id="org.gnome.Console.desktop" score="1517" last-seen="1678879935"/>
+    <application id="org.gnome.Nautilus.desktop" score="128" last-seen="1678799240"/>
+    <application id="chrome-jampgijmijbbjiocilomcnmdbnnakgnh-Default.desktop" score="2781" last-seen="1678616120"/>
+    <application id="mpv.desktop" score="5324" last-seen="1678794707"/>
+    <application id="steam-native.desktop" score="100" last-seen="1678354183"/>
+    <application id="filezilla.desktop" score="169" last-seen="1678794386"/>
+    <application id="chromium.desktop" score="132" last-seen="1678799799"/>
+    <application id="librewolf.desktop" score="11382" last-seen="1678879766"/>
+    <application id="org.gnome.DiskUtility.desktop" score="16" last-seen="1678275452"/>
+    <application id="net.lutris.Lutris.desktop" score="220" last-seen="1678791400"/>
+    <application id="org.gnome.Settings.desktop" score="81" last-seen="1678780608"/>
+  </context>
+</application-state>

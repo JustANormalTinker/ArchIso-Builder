@@ -1,0 +1,11 @@
+game:
+  args: -AUTH_LOGIN=unused -AUTH_PASSWORD=901dbe79901dbe79901dbe79901dbe79 -AUTH_TYPE=exchangecode
+    -epicapp=app_name -epicenv=Prod -EpicPortal -epicusername="elamigos" -epicuserid=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    -epiclocale=en-US
+  exe: /home/mihir/Games/PC Building Simulator 2/PCBS2.exe
+system: {}
+wine:
+  battleye: false
+  eac: false
+  fsr: false
+  version: lutris-GE-Proton7-37-x86_64

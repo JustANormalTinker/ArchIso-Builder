@@ -1,0 +1,2669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/mihir/Downloads/Tokyonight-Storm-BL.zip" added="2023-03-01T11:50:31.978555Z" modified="2023-03-01T12:05:44.886017Z" visited="2023-03-01T11:50:31.978556Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-01T11:50:31.978558Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-01T11:50:36.250063Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-01T12:05:44.886015Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/.themes" added="2023-03-01T11:51:02.011914Z" modified="2023-03-30T10:25:52.849787Z" visited="2023-03-01T11:51:02.011915Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-03-01T11:51:02.011916Z" count="1"/>
+          <bookmark:application name="kvantummanager" exec="&apos;kvantummanager %u&apos;" modified="2023-03-30T10:25:52.849784Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/cyan-colour-city-with-a-high-rise-buildings_XcnZDERu_upscaled.jpg" added="2023-03-01T12:30:22.797538Z" modified="2023-03-01T12:30:22.797551Z" visited="2023-03-01T12:30:22.797539Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-01T12:30:22.797545Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/dark-blue-color-city-with-a-high-rise-buildings_B5e-4tqc_upscaled.jpg" added="2023-03-01T12:32:28.256713Z" modified="2023-03-01T12:32:28.256726Z" visited="2023-03-01T12:32:28.256715Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-01T12:32:28.256720Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/dark-blue-color-city-with-a-high-rise-buildings_iWMQzBfx_upscaled.jpg" added="2023-03-01T12:32:34.478597Z" modified="2023-03-01T12:32:34.478607Z" visited="2023-03-01T12:32:34.478598Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-01T12:32:34.478602Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/OG11479-PHBRM11.rar" added="2023-03-02T09:36:16.110003Z" modified="2023-03-02T09:36:16.110012Z" visited="2023-03-02T09:36:16.110004Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-02T09:36:16.110008Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/OG11479-PHBRM11/Phantom.Brigade.MULTi11-ElAmigos/Phantom%20Brigade.iso" added="2023-03-02T09:47:20.759342Z" modified="2023-03-02T09:47:20.759352Z" visited="2023-03-02T09:47:20.759345Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-disk-image-mounter %U&apos;" modified="2023-03-02T09:47:20.759349Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mihir/Phantom%20Brigade/setup.exe" added="2023-03-02T09:56:50.706258Z" modified="2023-03-02T09:56:50.706262Z" visited="2023-03-02T09:56:50.706259Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-02T09:56:50.706260Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games" added="2023-03-02T09:58:29.660751Z" modified="2023-03-30T07:04:03.743273Z" visited="2023-03-02T09:58:29.660752Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-02T09:58:29.660753Z" count="1"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-03-30T07:04:03.743270Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Phantom%20Brigade/PhantomBrigade.exe" added="2023-03-02T10:02:56.178182Z" modified="2023-03-02T10:04:29.496274Z" visited="2023-03-02T10:02:56.178183Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-02T10:04:29.496272Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/AR_v0.26.1_Premium_UserUpload.Net.apk" added="2023-03-02T14:04:40.225743Z" modified="2023-03-18T12:27:06.245244Z" visited="2023-03-02T14:04:40.225745Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T12:26:17.380663Z" count="2"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-18T12:27:06.245242Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Anime4K_v4.0.zip" added="2023-03-03T15:56:10.019079Z" modified="2023-03-03T15:56:13.021230Z" visited="2023-03-03T15:56:10.019080Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-03T15:56:10.019083Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-03T15:56:13.021228Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/.config/jellyfin-mpv-shim/shaders" added="2023-03-03T15:56:53.947991Z" modified="2023-03-03T15:57:21.774469Z" visited="2023-03-03T15:56:53.947992Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-03T15:56:53.947993Z" count="1"/>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-03-03T15:57:21.774467Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/.config/jellyfin-mpv-shim/mpv.conf" added="2023-03-03T15:57:49.924306Z" modified="2023-03-03T16:06:45.008926Z" visited="2023-03-03T15:57:49.924307Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-03T16:06:45.008924Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/.config/mpv" added="2023-03-03T16:00:42.847378Z" modified="2023-03-03T16:00:42.847383Z" visited="2023-03-03T16:00:42.847379Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-03T16:00:42.847381Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/.config/jellyfin-mpv-shim/input.conf" added="2023-03-03T16:06:42.102519Z" modified="2023-03-03T16:06:42.102524Z" visited="2023-03-03T16:06:42.102520Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-03T16:06:42.102522Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Hades/x64/.exe" added="2023-03-04T11:55:11.512623Z" modified="2023-03-04T11:55:11.512628Z" visited="2023-03-04T11:55:11.512624Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-04T11:55:11.512626Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Hades/x64/Hades.exe" added="2023-03-04T11:55:23.190534Z" modified="2023-03-04T11:55:23.190539Z" visited="2023-03-04T11:55:23.190536Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-04T11:55:23.190537Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Spotify_8.8.10.582.97259498.v8_UserUpload.Net.apk" added="2023-03-04T11:57:11.971202Z" modified="2023-03-04T11:58:12.636594Z" visited="2023-03-04T11:57:11.971203Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-04T11:57:11.971208Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-04T11:58:12.636592Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/%5BKayoanime%5D%20Gintama%20-%20003.mkv" added="2023-03-04T13:21:53.595106Z" modified="2023-03-04T13:32:59.923001Z" visited="2023-03-04T13:21:53.595108Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-04T13:21:53.595111Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2023-03-04T13:32:59.922990Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/.config/mpv/input.conf" added="2023-03-04T13:32:42.311116Z" modified="2023-03-04T13:32:42.311121Z" visited="2023-03-04T13:32:42.311117Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-04T13:32:42.311119Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Crusader%20Kings%20II%20-%20Imperial%20Collection%20-%20%5BDODI%20Repack%5D/Setup.exe" added="2023-03-05T11:33:51.708913Z" modified="2023-03-05T11:33:51.708918Z" visited="2023-03-05T11:33:51.708913Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-05T11:33:51.708915Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Crusader%20Kings%20II%20Imperial%20Collection/CK2game.exe" added="2023-03-05T11:38:43.243980Z" modified="2023-03-05T14:02:13.665956Z" visited="2023-03-05T11:38:43.243981Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-05T14:02:13.665953Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Crusader%20Kings%20II%20Imperial%20Collection/00_GET%20CK%20EXE.bat" added="2023-03-05T14:03:05.929422Z" modified="2023-03-05T14:03:05.929426Z" visited="2023-03-05T14:03:05.929423Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-05T14:03:05.929424Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/codex-crusader.kings.ii.holy.fury.v3.3.0.7z" added="2023-03-05T14:07:51.074411Z" modified="2023-03-05T16:13:00.891996Z" visited="2023-03-05T14:07:51.074413Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-05T14:07:51.074417Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-05T16:13:00.891995Z" count="2"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-03-05T16:13:00.278353Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Crusader%20Kings%20II%20Imperial%20Collection" added="2023-03-05T14:08:43.673603Z" modified="2023-03-05T14:08:43.673610Z" visited="2023-03-05T14:08:43.673604Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-03-05T14:08:43.673606Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Crusader%20Kings%20II_Incl_DLC_Linux_build_7399341.rar" added="2023-03-05T14:26:14.084382Z" modified="2023-03-05T14:26:14.084391Z" visited="2023-03-05T14:26:14.084384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-05T14:26:14.084386Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Goldberg_Lan_Steam_Emu_master--802d8bcc.zip" added="2023-03-05T14:40:31.986298Z" modified="2023-03-30T07:05:25.227036Z" visited="2023-03-05T14:40:31.986300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-05T14:40:31.986304Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-30T07:05:25.227034Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Crusader%20Kings%20II" added="2023-03-05T14:40:50.312259Z" modified="2023-03-05T16:13:12.043338Z" visited="2023-03-05T14:40:50.312260Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-03-05T16:13:12.043335Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Crusader%20Kings%20II.rar" added="2023-03-05T14:47:14.861698Z" modified="2023-03-05T14:47:14.861707Z" visited="2023-03-05T14:47:14.861700Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-05T14:47:14.861703Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Crusader%20Kings%20II/.exe" added="2023-03-05T16:13:29.089004Z" modified="2023-03-05T16:13:29.089011Z" visited="2023-03-05T16:13:29.089006Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-05T16:13:29.089008Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Crusader%20Kings%20II/CK2game.exe" added="2023-03-05T16:13:34.577521Z" modified="2023-03-05T16:49:11.037598Z" visited="2023-03-05T16:13:34.577522Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-05T16:49:11.037594Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/GE-Proton7-49.tar.gz" added="2023-03-05T16:27:25.781726Z" modified="2023-03-05T16:27:25.781736Z" visited="2023-03-05T16:27:25.781727Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-05T16:27:25.781731Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/GE-Proton7-35.tar.gz" added="2023-03-05T16:28:11.627553Z" modified="2023-03-05T16:30:08.564671Z" visited="2023-03-05T16:28:11.627554Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-05T16:28:11.627557Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-05T16:30:08.564667Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir" added="2023-03-05T16:30:15.223315Z" modified="2023-03-05T16:34:46.875375Z" visited="2023-03-05T16:30:15.223316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-03-05T16:34:46.875372Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/GE-Proton7-37.tar.gz" added="2023-03-05T16:33:17.667074Z" modified="2023-03-05T16:34:43.116021Z" visited="2023-03-05T16:33:17.667075Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-05T16:33:17.667078Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-05T16:34:43.116017Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/wine-lutris-GE-Proton7-37-x86_64.tar.xz" added="2023-03-05T16:38:01.162433Z" modified="2023-03-05T16:38:45.943467Z" visited="2023-03-05T16:38:01.162434Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-05T16:38:01.162438Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-05T16:38:45.943463Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads" added="2023-03-05T16:39:02.721507Z" modified="2023-04-02T10:41:29.291546Z" visited="2023-03-05T16:39:02.721508Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-04-02T10:41:29.291544Z" count="25"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-27T06:03:52.606537Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Crusader%20Kings%20II%203.3.0%20DLC%20Files.rar" added="2023-03-05T17:00:20.681962Z" modified="2023-03-05T17:00:20.681972Z" visited="2023-03-05T17:00:20.681963Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-05T17:00:20.681967Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/CreamAPI_Release_v4.4.0.0_for_Crusader_Kings_II_v3.3.3_b5028256.7z" added="2023-03-05T17:00:55.074528Z" modified="2023-03-05T17:19:20.548478Z" visited="2023-03-05T17:00:55.074530Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-05T17:00:55.074535Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-05T17:19:20.548477Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/linux_dlc_unlocker.7z" added="2023-03-05T17:01:10.878905Z" modified="2023-03-05T17:13:43.317123Z" visited="2023-03-05T17:01:10.878907Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-05T17:01:10.878912Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-05T17:13:43.317120Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/tbb-2020.3-8.el9.x86_64.rpm" added="2023-03-05T17:18:14.755882Z" modified="2023-03-05T17:18:29.581676Z" visited="2023-03-05T17:18:14.755883Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-rpm"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-05T17:18:14.755886Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-03-05T17:18:29.166601Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-05T17:18:29.581674Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Total%20War%20-%20Rome%202%20%5BFitGirl%20Repack%5D/setup.exe" added="2023-03-07T07:06:51.945396Z" modified="2023-03-07T07:06:51.945402Z" visited="2023-03-07T07:06:51.945397Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-07T07:06:51.945399Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/codex-total.war.rome.ii.rise.of.the.republic/codex-total.war.rome.ii.rise.of.the.republic.iso" added="2023-03-07T08:55:45.408104Z" modified="2023-03-07T08:55:45.408109Z" visited="2023-03-07T08:55:45.408105Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-disk-image-mounter %U&apos;" modified="2023-03-07T08:55:45.408107Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mihir/Total%20War%20Rome%20II%20Rise%20of%20the%20Re/setup.exe" added="2023-03-07T08:55:54.100595Z" modified="2023-03-07T08:55:54.100601Z" visited="2023-03-07T08:55:54.100596Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-07T08:55:54.100598Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Total%20War%20Rome%20II%20Rise%20of%20the%20Republic/launcher/launcher.exe" added="2023-03-07T09:06:07.012889Z" modified="2023-03-07T09:06:07.012894Z" visited="2023-03-07T09:06:07.012890Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-07T09:06:07.012891Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Total%20War%20Rome%20II%20Rise%20of%20the%20Republic/Rome2.exe" added="2023-03-07T09:07:45.008702Z" modified="2023-03-07T09:07:45.008707Z" visited="2023-03-07T09:07:45.008703Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-07T09:07:45.008704Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Atlas_v0.5.2.iso" added="2023-03-08T07:29:11.454104Z" modified="2023-03-08T07:34:32.322202Z" visited="2023-03-08T07:29:11.454106Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-08T07:29:11.454109Z" count="1"/>
+          <bookmark:application name="virt-manager" exec="&apos;virt-manager %u&apos;" modified="2023-03-08T07:34:32.322200Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/OG4886-OCTRPZ.rar" added="2023-03-09T10:22:16.295988Z" modified="2023-03-09T10:22:16.295994Z" visited="2023-03-09T10:22:16.295989Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-09T10:22:16.295991Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Octopath.Traveler.MULTi9-PLAZA/plaza-octopath.traveler.multi9.iso" added="2023-03-09T10:34:41.297547Z" modified="2023-03-09T10:34:41.297551Z" visited="2023-03-09T10:34:41.297548Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-disk-image-mounter %U&apos;" modified="2023-03-09T10:34:41.297550Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mihir/Octopath%20Traveler%20MULTi9/setup.exe" added="2023-03-09T10:35:15.665231Z" modified="2023-03-09T10:35:15.665237Z" visited="2023-03-09T10:35:15.665232Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-09T10:35:15.665234Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/header.jpg" added="2023-03-09T10:47:59.030121Z" modified="2023-03-09T10:48:06.202971Z" visited="2023-03-09T10:47:59.030123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-09T10:47:59.030129Z" count="1"/>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-09T10:48:06.202967Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/snapshot_2023-03-04_02-26.zip" added="2023-03-09T11:25:46.180875Z" modified="2023-03-09T11:25:53.746343Z" visited="2023-03-09T11:25:46.180877Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-09T11:25:46.180881Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-09T11:25:53.746341Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/snapshot_2023-03-04_02-26/release/x96dbg.exe" added="2023-03-09T11:26:54.321471Z" modified="2023-03-09T11:26:54.321477Z" visited="2023-03-09T11:26:54.321472Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-09T11:26:54.321474Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/6404055233c5d447bc7617ad.zip" added="2023-03-09T11:28:52.482077Z" modified="2023-03-21T14:24:57.715063Z" visited="2023-03-09T11:28:52.482079Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-21T14:24:54.756720Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-21T14:24:57.715061Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Cutter-v2.2.0-Linux-x86_64.AppImage" added="2023-03-09T11:32:55.259542Z" modified="2023-03-09T11:32:55.259556Z" visited="2023-03-09T11:32:55.259543Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.appimage"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-09T11:32:55.259551Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/6403ac2a33c5d447bc76179f.zip" added="2023-03-09T11:49:02.266187Z" modified="2023-03-09T11:49:04.401068Z" visited="2023-03-09T11:49:02.266190Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-09T11:49:02.266196Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-09T11:49:04.401066Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/63ab23d733c5d43ab4ecf151.zip" added="2023-03-09T11:57:19.250745Z" modified="2023-03-09T11:57:21.381838Z" visited="2023-03-09T11:57:19.250747Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-09T11:57:19.250750Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-09T11:57:21.381836Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/63e2ba8b33c5d447bc761291.zip" added="2023-03-09T12:11:25.034088Z" modified="2023-03-09T12:11:25.034098Z" visited="2023-03-09T12:11:25.034090Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-09T12:11:25.034094Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/63c4ee1a33c5d43ab4ecf49a.zip" added="2023-03-09T12:11:43.472250Z" modified="2023-03-21T14:26:46.006875Z" visited="2023-03-09T12:11:43.472252Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-21T14:26:44.242112Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-21T14:26:46.006873Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/63ff822733c5d447bc7616e6.zip" added="2023-03-09T12:23:19.441607Z" modified="2023-03-09T12:23:21.412239Z" visited="2023-03-09T12:23:19.441609Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-09T12:23:19.441613Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-09T12:23:21.412237Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/tachiyomi-r5602.apk" added="2023-03-11T18:45:25.816807Z" modified="2023-03-11T18:58:20.407159Z" visited="2023-03-11T18:45:25.816809Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-11T18:45:25.816813Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-11T18:58:20.407157Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Octopath%20Traveler/Octopath_Traveler.exe" added="2023-03-13T14:57:37.794314Z" modified="2023-03-13T14:57:37.794322Z" visited="2023-03-13T14:57:37.794316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-13T14:57:37.794318Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/twrp-3.7.0_9-0-whyred.img" added="2023-03-14T07:43:28.796751Z" modified="2023-03-14T07:43:28.796760Z" visited="2023-03-14T07:43:28.796752Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-14T07:43:28.796755Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/OG10553-KIANCAG.rar" added="2023-03-14T08:41:51.924295Z" modified="2023-03-14T08:41:51.924304Z" visited="2023-03-14T08:41:51.924296Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-14T08:41:51.924299Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/arm64_SystemWebView.apk" added="2023-03-14T08:56:47.586137Z" modified="2023-03-14T09:02:49.669293Z" visited="2023-03-14T08:56:47.586139Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-14T08:56:47.586144Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-14T09:02:49.669291Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Anime/Demon%20Slayer" added="2023-03-14T10:27:19.618219Z" modified="2023-03-14T10:27:19.618224Z" visited="2023-03-14T10:27:19.618220Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-14T10:27:19.618222Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Anime/Demon%20Slayer/S1" added="2023-03-14T10:27:27.082413Z" modified="2023-03-14T10:27:27.082418Z" visited="2023-03-14T10:27:27.082414Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-14T10:27:27.082416Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Anime/%5BJudas%5D%20Kimetsu%20no%20Yaiba%20-%20Yuukaku-hen%20%5B1080p%5D%5BHEVC%20x265%2010bit%5D%5BMulti-Subs%5D/%5BJudas%5D%20Kimetsu%20no%20Yaiba%20-%20Yuukaku-hen%20-%2003.mkv" added="2023-03-14T10:37:23.698651Z" modified="2023-03-14T10:37:32.728680Z" visited="2023-03-14T10:37:23.698653Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2023-03-14T10:37:32.728674Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Anime/Demon%20Slayer/S2" added="2023-03-14T10:37:59.522986Z" modified="2023-03-14T10:37:59.522991Z" visited="2023-03-14T10:37:59.522987Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-14T10:37:59.522988Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Anime/Demon%20Slayer/S2/%5BJudas%5D%20Kimetsu%20no%20Yaiba%20-%20Yuukaku-hen%20-%2001.mkv" added="2023-03-14T10:38:05.973482Z" modified="2023-03-14T10:38:05.973487Z" visited="2023-03-14T10:38:05.973483Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/x-matroska"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;mpv --player-operation-mode=pseudo-gui -- %U&apos;" modified="2023-03-14T10:38:05.973484Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/rvx-builder-linux" added="2023-03-14T12:52:35.306354Z" modified="2023-03-14T12:52:35.306361Z" visited="2023-03-14T12:52:35.306355Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-14T12:52:35.306357Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/revanced-builder-linux" added="2023-03-14T12:58:28.398897Z" modified="2023-03-14T12:58:28.398907Z" visited="2023-03-14T12:58:28.398899Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-14T12:58:28.398904Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/revanced/VancedMicroG-v0.2.27.230755.apk" added="2023-03-14T13:05:55.719667Z" modified="2023-03-18T09:07:12.247060Z" visited="2023-03-14T13:05:55.719668Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-18T09:07:12.247057Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/revanced/ReVanced-YouTube-v18.10.33-cli_v2.20.0-patches_v2.164.32.apk" added="2023-03-14T13:05:55.719684Z" modified="2023-03-17T08:24:25.561934Z" visited="2023-03-14T13:05:55.719684Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-17T08:24:25.561932Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/OrangeFox-whyred-stable@R11.1.zip" added="2023-03-16T05:47:18.599327Z" modified="2023-03-16T05:47:28.450462Z" visited="2023-03-16T05:47:18.599329Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-16T05:47:18.599331Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-16T05:47:28.450460Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/twrp-3.3.0-0-whyred.img" added="2023-03-16T05:51:44.032198Z" modified="2023-03-16T05:51:44.032210Z" visited="2023-03-16T05:51:44.032201Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-16T05:51:44.032205Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/com.android.deskclock_13.62.0-130206200_minAPI24(arm64-v8a)(nodpi)_apkmirror.com.apk" added="2023-03-16T06:36:30.240885Z" modified="2023-03-16T06:36:30.240890Z" visited="2023-03-16T06:36:30.240886Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-16T06:36:30.240888Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Magisk-v25.2.apk" added="2023-03-16T11:32:46.826772Z" modified="2023-03-16T11:36:36.601216Z" visited="2023-03-16T11:32:46.826774Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-16T11:32:46.826776Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-16T11:36:36.601214Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/whyred_global_images_V11.0.5.0.PEIMIXM_20200917.0000.00_9.0_global_46113830ee.tgz" added="2023-03-16T11:40:31.060797Z" modified="2023-03-16T11:40:31.060805Z" visited="2023-03-16T11:40:31.060799Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-16T11:40:31.060801Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/twrp-3.4.0-0-whyred.img" added="2023-03-16T12:02:34.105777Z" modified="2023-03-16T12:02:34.105784Z" visited="2023-03-16T12:02:34.105778Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-16T12:02:34.105781Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/whyred_global_images_V11.0.5.0.PEIMIXM_20200917.0000.00_9.0_global/images/boot.img" added="2023-03-16T12:24:37.530173Z" modified="2023-03-16T12:24:37.530182Z" visited="2023-03-16T12:24:37.530175Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-16T12:24:37.530178Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/revanced/com.google.android.youtube.apk" added="2023-03-16T13:23:07.814218Z" modified="2023-03-16T13:23:07.814223Z" visited="2023-03-16T13:23:07.814219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-16T13:23:07.814220Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/revanced" added="2023-03-16T13:40:17.909529Z" modified="2023-03-16T13:40:17.909534Z" visited="2023-03-16T13:40:17.909531Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-16T13:40:17.909532Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/revanced/ReVanced-YouTube-cli_v2.21.0-patches_v2.165.1.apk" added="2023-03-16T13:40:44.778961Z" modified="2023-03-16T13:45:43.486117Z" visited="2023-03-16T13:40:44.778962Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-16T13:45:43.486114Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/evolution_whyred-ota-sq3a.220705.004-09011242.zip" added="2023-03-17T07:12:08.574313Z" modified="2023-03-17T07:12:08.574322Z" visited="2023-03-17T07:12:08.574315Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-17T07:12:08.574318Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/whyred_global_images_V12.0.2.0.PEIMIXM_20201224.0000.00_9.0_global_561698251e.tgz" added="2023-03-17T07:21:25.543254Z" modified="2023-03-17T07:21:25.543269Z" visited="2023-03-17T07:21:25.543256Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-17T07:21:25.543262Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM636-MTP__SN%3A46A573E2_463a487f/Internal%20shared%20storage/Download/com.x8bit.bitwarden_2023.2.0-5944_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk" added="2023-03-17T07:57:07.431039Z" modified="2023-03-17T07:57:07.431048Z" visited="2023-03-17T07:57:07.431040Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-17T07:57:07.431044Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/com.x8bit.bitwarden_2023.2.0-5944_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk" added="2023-03-17T07:57:21.222185Z" modified="2023-03-17T07:57:21.222195Z" visited="2023-03-17T07:57:21.222187Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-17T07:57:21.222191Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/MiXplorer_v6.61.6-API29_B23031320.apk" added="2023-03-17T08:08:38.037247Z" modified="2023-03-17T08:08:54.408982Z" visited="2023-03-17T08:08:38.037249Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-17T08:08:38.037252Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-17T08:08:54.408979Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Installer-release.apk" added="2023-03-17T08:48:33.863004Z" modified="2023-03-17T08:49:10.360208Z" visited="2023-03-17T08:48:33.863006Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-17T08:48:33.863012Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-17T08:49:10.360203Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Niagara%20Launcher%20Pro%20v1.8.13.apk" added="2023-03-17T13:39:57.482614Z" modified="2023-03-17T13:39:57.482625Z" visited="2023-03-17T13:39:57.482616Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-17T13:39:57.482620Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/MiXplorer_v6.61.6-API29_B23031320.apk" added="2023-03-17T13:42:15.682592Z" modified="2023-03-19T06:59:03.490671Z" visited="2023-03-17T13:42:15.682594Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-17T13:42:15.682597Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-19T06:59:03.490669Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/MiXPDF_B2302022-arm64.apk" added="2023-03-17T13:42:26.046744Z" modified="2023-03-19T06:59:36.531078Z" visited="2023-03-17T13:42:26.046745Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-17T13:42:26.046750Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-19T06:59:36.531075Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/MiXArchive_B2202012-arm64.apk" added="2023-03-17T13:42:38.544012Z" modified="2023-03-19T07:00:11.456896Z" visited="2023-03-17T13:42:38.544014Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-17T13:42:38.544016Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-19T07:00:11.456894Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/AuroraStore_4.1.1.apk" added="2023-03-17T13:43:10.704097Z" modified="2023-03-17T13:43:10.704105Z" visited="2023-03-17T13:43:10.704099Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-17T13:43:10.704102Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM636-MTP__SN%3A46A573E2_463a487f/Internal%20shared%20storage/AuroraDroid-nightly-signed-01-03-2023.apk" added="2023-03-17T13:48:31.494895Z" modified="2023-03-17T13:48:31.494902Z" visited="2023-03-17T13:48:31.494896Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-17T13:48:31.494899Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_SDM636-MTP__SN%3A46A573E2_463a487f/Internal%20shared%20storage/AuroraDroid_1.0.8.apk" added="2023-03-17T13:52:30.028759Z" modified="2023-03-17T13:52:30.028766Z" visited="2023-03-17T13:52:30.028760Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-17T13:52:30.028763Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/SuperiorOS-Twelve-whyred-OFFICIAL-20211217-0745.zip" added="2023-03-18T07:35:20.495530Z" modified="2023-03-18T07:35:20.495541Z" visited="2023-03-18T07:35:20.495532Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T07:35:20.495536Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/NanoDroid-23.1.2.20210117.zip" added="2023-03-18T07:55:15.210336Z" modified="2023-03-18T07:55:15.210345Z" visited="2023-03-18T07:55:15.210338Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T07:55:15.210341Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/MinMicroG-Standard-2.11.1-20220202153527.zip" added="2023-03-18T07:58:52.875670Z" modified="2023-03-18T07:58:52.875681Z" visited="2023-03-18T07:58:52.875672Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T07:58:52.875676Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_5_Pro_463a487f/Internal%20shared%20storage/MinMicroG-NoGoolag-2.11.1-20220202153503.zip" added="2023-03-18T07:59:42.247773Z" modified="2023-03-18T07:59:42.247787Z" visited="2023-03-18T07:59:42.247775Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T07:59:42.247781Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/MinMicroG-NoGoolag-2.11.1-20220202153503.zip" added="2023-03-18T07:59:57.456913Z" modified="2023-03-18T07:59:57.456924Z" visited="2023-03-18T07:59:57.456916Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T07:59:57.456920Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/revanced-manager-v0.0.57.apk" added="2023-03-18T08:49:39.104595Z" modified="2023-03-18T08:49:39.104606Z" visited="2023-03-18T08:49:39.104598Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T08:49:39.104601Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/com.google.android.youtube_18.10.37-1536552384_minAPI26(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk" added="2023-03-18T08:52:21.448070Z" modified="2023-03-18T08:52:21.448083Z" visited="2023-03-18T08:52:21.448072Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T08:52:21.448078Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/wp5103342-phone-cyberpunk-wallpapers.jpg" added="2023-03-18T08:53:37.205361Z" modified="2023-03-18T08:53:37.205374Z" visited="2023-03-18T08:53:37.205363Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T08:53:37.205368Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/revanced/ReVanced-YouTube-v18.10.37-cli_v2.21.0-patches_v2.166.1.apk" added="2023-03-18T09:07:24.767214Z" modified="2023-03-18T09:07:24.767223Z" visited="2023-03-18T09:07:24.767216Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-18T09:07:24.767218Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/onu_info.log" added="2023-03-18T11:30:29.996080Z" modified="2023-03-18T11:30:29.996089Z" visited="2023-03-18T11:30:29.996081Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-log"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T11:30:29.996085Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/SuperiorOS-Thirteen-whyred-RELEASE-20221227-1514.zip" added="2023-03-18T12:24:58.318272Z" modified="2023-03-18T12:24:58.318282Z" visited="2023-03-18T12:24:58.318274Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T12:24:58.318278Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/SuperiorOS-Thirteen-whyred-GAPPS-RELEASE-20221227-1418.zip" added="2023-03-18T14:03:39.166158Z" modified="2023-03-18T14:03:39.166165Z" visited="2023-03-18T14:03:39.166159Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T14:03:39.166162Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/SuperiorOS-TwelveL-EOL-whyred-GAPPS-OFFICIAL-20221219-0143.zip" added="2023-03-18T14:57:07.974477Z" modified="2023-03-21T06:33:11.434798Z" visited="2023-03-18T14:57:07.974479Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T14:57:07.974482Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-21T06:33:11.434793Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/com.aurora.adroid_8.apk" added="2023-03-18T15:24:02.134888Z" modified="2023-03-18T15:24:02.134905Z" visited="2023-03-18T15:24:02.134892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-18T15:24:02.134897Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/SuperiorOS-TwelveL-EOL-whyred-OFFICIAL-20221219-0234.zip" added="2023-03-19T06:26:17.072471Z" modified="2023-03-23T16:28:47.343329Z" visited="2023-03-19T06:26:17.072473Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-23T16:28:47.343326Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/NikGapps-core-arm64-13-20230311-signed.zip" added="2023-03-19T06:45:04.890870Z" modified="2023-03-19T06:45:04.890880Z" visited="2023-03-19T06:45:04.890872Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-19T06:45:04.890876Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/NikGapps-core-arm64-12.1-20230311-signed.zip" added="2023-03-19T06:50:49.809806Z" modified="2023-03-19T06:50:49.809815Z" visited="2023-03-19T06:50:49.809807Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-19T06:50:49.809811Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/org.kde.kdeconnect_tp_1.22.1-12201_minAPI21(nodpi)_apkmirror.com.apk" added="2023-03-19T06:57:00.674678Z" modified="2023-03-19T06:57:00.674688Z" visited="2023-03-19T06:57:00.674680Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-19T06:57:00.674683Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Total%20War%20Rome%20II%20Rise%20of%20the%20Republic/data/models3_rome2.pack" added="2023-03-20T14:15:30.962149Z" modified="2023-03-20T14:17:34.178539Z" visited="2023-03-20T14:15:30.962151Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-pack200"/>
+        <bookmark:applications>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-20T14:15:30.962152Z" count="1"/>
+          <bookmark:application name="warpinator" exec="&apos;warpinator %u&apos;" modified="2023-03-20T14:17:34.178536Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/com.termux_118.apk" added="2023-03-20T14:24:26.863655Z" modified="2023-03-20T14:24:26.863670Z" visited="2023-03-20T14:24:26.863658Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-20T14:24:26.863664Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Anime" added="2023-03-20T14:42:19.811938Z" modified="2023-03-20T14:42:19.811944Z" visited="2023-03-20T14:42:19.811940Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-20T14:42:19.811941Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/63f3e06f33c5d447bc76150f.zip" added="2023-03-21T14:26:22.098018Z" modified="2023-03-21T14:26:24.042896Z" visited="2023-03-21T14:26:22.098019Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-21T14:26:22.098022Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-21T14:26:24.042894Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/637c66b633c5d43ab4ecec2a.zip" added="2023-03-21T14:30:00.596598Z" modified="2023-03-21T14:30:02.284187Z" visited="2023-03-21T14:30:00.596599Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-21T14:30:00.596603Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-21T14:30:02.284185Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/63710e2433c5d43ab4eceac6.zip" added="2023-03-21T14:30:48.263545Z" modified="2023-03-21T14:30:49.974864Z" visited="2023-03-21T14:30:48.263546Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-21T14:30:48.263549Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-21T14:30:49.974862Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/keygenme-trial.py" added="2023-03-21T15:14:28.227059Z" modified="2023-03-21T15:15:59.373159Z" visited="2023-03-21T15:14:28.227061Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-21T15:14:28.227064Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-21T15:15:59.373156Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/test" added="2023-03-21T15:17:54.971560Z" modified="2023-03-21T15:17:54.971590Z" visited="2023-03-21T15:17:54.971562Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-21T15:17:54.971583Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/decoded-20230321151756.bin" added="2023-03-21T15:18:00.407280Z" modified="2023-03-21T15:18:00.407288Z" visited="2023-03-21T15:18:00.407282Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-21T15:18:00.407285Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/BlockAds-v2.5.zip" added="2023-03-22T05:03:29.297185Z" modified="2023-03-22T05:03:37.636698Z" visited="2023-03-22T05:03:29.297187Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T05:03:29.297190Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-22T05:03:37.636695Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/SHRP_v3.1_Recovery-stable-Unofficial-whyred.zip" added="2023-03-22T05:20:16.684982Z" modified="2023-03-22T05:23:14.866879Z" visited="2023-03-22T05:20:16.684984Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T05:20:16.684988Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-22T05:23:14.866877Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/OrangeFox-R11.1-4.4-220712_041015-Unofficial-whyred.zip" added="2023-03-22T05:20:52.778236Z" modified="2023-04-01T18:29:09.932500Z" visited="2023-03-22T05:20:52.778238Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-04-01T18:29:09.932496Z" count="3"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-22T05:24:57.311918Z" count="2"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-22T05:29:19.121465Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/AMOLED-Cyan-1.5.mit" added="2023-03-22T06:35:49.227706Z" modified="2023-03-22T06:37:35.155979Z" visited="2023-03-22T06:35:49.227709Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T06:35:49.227715Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-22T06:37:35.155976Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/NEON-Cyan-1.2.mit" added="2023-03-22T06:37:57.442142Z" modified="2023-03-22T06:38:07.098936Z" visited="2023-03-22T06:37:57.442150Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T06:37:57.442154Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-22T06:38:07.098933Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="ftp://192.168.1.1/usb1_1/asd" added="2023-03-22T08:18:55.749891Z" modified="2023-03-22T08:18:55.749895Z" visited="2023-03-22T08:18:55.749892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-22T08:18:55.749893Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/OG11452-PBS2M10.part1.rar" added="2023-03-22T08:31:59.219267Z" modified="2023-03-22T08:31:59.219275Z" visited="2023-03-22T08:31:59.219268Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T08:31:59.219271Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/OG11452-PBS2M10.part2.rar" added="2023-03-22T08:47:45.874157Z" modified="2023-03-22T08:47:45.874164Z" visited="2023-03-22T08:47:45.874158Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T08:47:45.874160Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/PC.Building.Simulator.2.MULTi10-ElAmigos/PC%20Building%20Simulator%202.iso" added="2023-03-22T08:51:16.997290Z" modified="2023-03-22T08:51:16.997295Z" visited="2023-03-22T08:51:16.997291Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-disk-image-mounter %U&apos;" modified="2023-03-22T08:51:16.997293Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///run/media/mihir/PC%20Building%202/setup.exe" added="2023-03-22T08:52:19.083345Z" modified="2023-03-22T08:52:19.083352Z" visited="2023-03-22T08:52:19.083346Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-22T08:52:19.083347Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/PC%20Building%20Simulator%202/PCBS2.exe" added="2023-03-22T09:01:07.213787Z" modified="2023-03-22T09:02:59.298848Z" visited="2023-03-22T09:01:07.213789Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-22T09:02:59.298844Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/PC%20Building%20Simulator%202/start.bat" added="2023-03-22T09:02:24.129304Z" modified="2023-03-22T09:03:12.566717Z" visited="2023-03-22T09:02:24.129305Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-22T09:03:12.566715Z" count="2"/>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-22T09:02:45.150763Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Octopus_v6.4.8_PROuserupload.in.zip" added="2023-03-22T09:31:26.021207Z" modified="2023-03-22T09:31:28.774615Z" visited="2023-03-22T09:31:26.021209Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T09:31:26.021211Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-22T09:31:28.774613Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Panda%20Mouse%20Pro_1.5.0.apk" added="2023-03-22T09:42:10.175682Z" modified="2023-03-22T09:42:10.175693Z" visited="2023-03-22T09:42:10.175684Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T09:42:10.175687Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/mutter-caster.py" added="2023-03-22T11:46:33.065232Z" modified="2023-03-22T11:46:33.065243Z" visited="2023-03-22T11:46:33.065234Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T11:46:33.065238Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/crackme.py" added="2023-03-22T12:49:41.906056Z" modified="2023-03-22T12:50:19.885564Z" visited="2023-03-22T12:49:41.906058Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T12:49:41.906061Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-22T12:50:19.885562Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/VaultDoorTraining.java" added="2023-03-22T12:52:14.427405Z" modified="2023-03-22T12:52:36.397473Z" visited="2023-03-22T12:52:14.427407Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T12:52:14.427412Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-22T12:52:36.397471Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/source" added="2023-03-22T12:56:11.767710Z" modified="2023-03-22T12:57:35.098987Z" visited="2023-03-22T12:56:11.767720Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T12:56:11.767725Z" count="1"/>
+          <bookmark:application name="cutter" exec="&apos;cutter %u&apos;" modified="2023-03-22T12:57:35.098983Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/VaultDoor1.java" added="2023-03-22T12:58:40.082132Z" modified="2023-03-22T12:58:43.708209Z" visited="2023-03-22T12:58:40.082133Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T12:58:40.082136Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-22T12:58:43.708207Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/run" added="2023-03-22T13:15:56.921712Z" modified="2023-03-22T13:15:56.921723Z" visited="2023-03-22T13:15:56.921714Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T13:15:56.921719Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/gdbme" added="2023-03-22T13:16:44.228814Z" modified="2023-03-22T13:17:00.569923Z" visited="2023-03-22T13:16:44.228816Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T13:16:44.228821Z" count="1"/>
+          <bookmark:application name="cutter" exec="&apos;cutter %u&apos;" modified="2023-03-22T13:17:00.569920Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/flag.txt.enc" added="2023-03-22T13:20:32.363964Z" modified="2023-03-22T13:20:32.363979Z" visited="2023-03-22T13:20:32.363966Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T13:20:32.363974Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/patchme.flag.py" added="2023-03-22T13:20:35.853901Z" modified="2023-03-22T13:20:35.853919Z" visited="2023-03-22T13:20:35.853905Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T13:20:35.853912Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/SafeOpener.java" added="2023-03-22T13:22:11.945445Z" modified="2023-03-22T13:22:11.945458Z" visited="2023-03-22T13:22:11.945447Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T13:22:11.945454Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/unpackme.flag.py" added="2023-03-22T13:23:31.714122Z" modified="2023-03-22T13:23:31.714129Z" visited="2023-03-22T13:23:31.714123Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T13:23:31.714126Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/enter_password" added="2023-03-22T13:25:04.672134Z" modified="2023-03-22T13:25:04.672147Z" visited="2023-03-22T13:25:04.672136Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T13:25:04.672142Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/e" added="2023-03-22T13:25:29.166319Z" modified="2023-03-22T13:26:14.945902Z" visited="2023-03-22T13:25:29.166320Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-22T13:25:29.166321Z" count="1"/>
+          <bookmark:application name="cutter" exec="&apos;cutter %u&apos;" modified="2023-03-22T13:26:14.945896Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/e/enter_password" added="2023-03-22T13:26:31.329387Z" modified="2023-03-22T13:26:31.329396Z" visited="2023-03-22T13:26:31.329389Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="cutter" exec="&apos;cutter %u&apos;" modified="2023-03-22T13:26:31.329392Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/chall.S" added="2023-03-22T13:29:07.677494Z" modified="2023-03-22T13:29:22.838100Z" visited="2023-03-22T13:29:07.677497Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T13:29:07.677500Z" count="1"/>
+          <bookmark:application name="cutter" exec="&apos;cutter %u&apos;" modified="2023-03-22T13:29:22.838097Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/not-crypto" added="2023-03-22T13:30:30.802280Z" modified="2023-03-22T13:31:09.868834Z" visited="2023-03-22T13:30:30.802283Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T13:30:30.802287Z" count="1"/>
+          <bookmark:application name="cutter" exec="&apos;cutter %u&apos;" modified="2023-03-22T13:31:09.868829Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Documents/VaultDoor3.java" added="2023-03-22T13:33:17.374553Z" modified="2023-03-22T13:33:17.374572Z" visited="2023-03-22T13:33:17.374557Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T13:33:17.374563Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/VaultDoor3.java" added="2023-03-22T13:33:51.400300Z" modified="2023-03-22T13:33:51.400308Z" visited="2023-03-22T13:33:51.400302Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-java"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T13:33:51.400305Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/breadth.v2" added="2023-03-22T15:34:59.536286Z" modified="2023-03-22T15:44:48.263432Z" visited="2023-03-22T15:34:59.536288Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T15:44:48.263426Z" count="2"/>
+          <bookmark:application name="cutter" exec="&apos;cutter %u&apos;" modified="2023-03-22T15:38:31.206625Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/breadth.v1" added="2023-03-22T15:35:43.228582Z" modified="2023-03-22T15:44:53.043372Z" visited="2023-03-22T15:35:43.228585Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-22T15:44:53.043366Z" count="2"/>
+          <bookmark:application name="cutter" exec="&apos;cutter %u&apos;" modified="2023-03-22T15:36:35.371642Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/DFE_S1.zip" added="2023-03-23T09:38:04.738610Z" modified="2023-03-23T09:38:04.738626Z" visited="2023-03-23T09:38:04.738620Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-23T09:38:04.738623Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/flag.txt" added="2023-03-23T09:38:48.544127Z" modified="2023-03-23T09:38:48.544138Z" visited="2023-03-23T09:38:48.544129Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-23T09:38:48.544134Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/otp" added="2023-03-23T09:38:56.826003Z" modified="2023-03-23T09:39:32.956616Z" visited="2023-03-23T09:38:56.826005Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-23T09:38:56.826010Z" count="1"/>
+          <bookmark:application name="cutter" exec="&apos;cutter %u&apos;" modified="2023-03-23T09:39:32.956613Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/KangarooX-whyred-FINAL.zip" added="2023-03-23T10:42:06.082481Z" modified="2023-03-23T10:43:19.892722Z" visited="2023-03-23T10:42:06.082483Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-23T10:42:06.082488Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-03-23T10:43:19.262821Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-23T10:43:19.892719Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Franco_Kernel_Manager_6.1.13_1906261929_af6f66.apk" added="2023-03-23T11:06:06.399590Z" modified="2023-03-23T11:06:06.399596Z" visited="2023-03-23T11:06:06.399591Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-23T11:06:06.399593Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Panda-v12.4-eas.zip" added="2023-03-23T11:23:59.972452Z" modified="2023-03-23T11:23:59.972462Z" visited="2023-03-23T11:23:59.972453Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-23T11:23:59.972457Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/tachiyomij2k-arm64-v8a-v1.6.4.apk" added="2023-03-23T14:13:49.824992Z" modified="2023-03-23T14:13:49.825002Z" visited="2023-03-23T14:13:49.824993Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-23T14:13:49.824997Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/tachiyomi-r5625.apk" added="2023-03-23T16:07:54.257679Z" modified="2023-03-23T16:07:54.257691Z" visited="2023-03-23T16:07:54.257681Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-23T16:07:54.257685Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/AncientOS-13-TexasCake-v7.0-whyred-Steel-20230301-2324-Vanilla.zip" added="2023-03-23T17:20:03.416615Z" modified="2023-03-23T17:20:03.416625Z" visited="2023-03-23T17:20:03.416617Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-23T17:20:03.416621Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred" added="2023-03-23T17:35:06.231755Z" modified="2023-03-23T17:35:06.231759Z" visited="2023-03-23T17:35:06.231756Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-23T17:35:06.231757Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/com.x8bit.bitwarden.apk" added="2023-03-23T17:46:58.203245Z" modified="2023-03-23T17:46:58.203255Z" visited="2023-03-23T17:46:58.203247Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-23T17:46:58.203252Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/install.sh" added="2023-03-23T17:47:26.275061Z" modified="2023-03-31T16:24:09.482441Z" visited="2023-03-23T17:47:26.275062Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-31T16:24:09.482439Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/ml.docilealligator.infinityforreddit_5.4.1-115_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk" added="2023-03-23T18:10:51.372503Z" modified="2023-03-23T18:10:51.372512Z" visited="2023-03-23T18:10:51.372505Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-23T18:10:51.372509Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Elixir-1.1-Newcam-2021-7-22.zip" added="2023-03-24T07:52:38.633740Z" modified="2023-03-24T07:52:38.633752Z" visited="2023-03-24T07:52:38.633741Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-24T07:52:38.633746Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/AuroraServices-v1.1.1-magisk.zip" added="2023-03-24T08:15:27.920190Z" modified="2023-03-24T08:15:33.679460Z" visited="2023-03-24T08:15:27.920192Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-24T08:15:27.920195Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-24T08:15:33.679457Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Pictures/Screenshots/Screenshot%20from%202023-03-24%2017-51-55.png" added="2023-03-24T12:21:55.894850Z" modified="2023-03-24T12:21:55.894855Z" visited="2023-03-24T12:21:55.894852Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-03-24T12:21:55.894853Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/ForceFastCharging_Module.zip" added="2023-03-24T12:56:53.044054Z" modified="2023-03-26T06:59:38.749382Z" visited="2023-03-24T12:56:53.044056Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-26T06:59:38.749379Z" count="2"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-24T12:56:58.347802Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/%5BMagisk%5D%F0%9F%94%A5Fast%20Charge%E2%9A%A1Version%20Green%F0%9F%8D%80V2.zip" added="2023-03-25T10:33:33.326826Z" modified="2023-03-25T10:33:37.387955Z" visited="2023-03-25T10:33:33.326828Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-25T10:33:33.326834Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-25T10:33:37.387951Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/.fc_main.sh" added="2023-03-25T10:35:51.948457Z" modified="2023-03-26T07:03:15.427531Z" visited="2023-03-25T10:35:51.948458Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-26T07:03:15.427529Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/lineage-20.0-20230324-UNOFFICIAL-arm64_bvS.img.xz" added="2023-03-25T10:54:13.216327Z" modified="2023-03-25T10:57:50.141662Z" visited="2023-03-25T10:54:13.216329Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-25T10:54:13.216332Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-25T10:57:50.141660Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/LeOS-20-VNDK-arm64_bvN.img.xz" added="2023-03-25T12:11:30.331823Z" modified="2023-03-25T12:14:38.035078Z" visited="2023-03-25T12:11:30.331824Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-25T12:11:30.331827Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-25T12:14:38.035076Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/TREBLE-whyred-V3r-P-260718.zip" added="2023-03-25T12:19:06.058673Z" modified="2023-03-30T05:45:59.175573Z" visited="2023-03-25T12:19:06.058675Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T05:45:59.175567Z" count="2"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-25T12:21:35.105520Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_5_Pro_463a487f/Internal%20shared%20storage/safetynet-fix-v2.4.0-MOD_1.2.zip" added="2023-03-25T13:06:32.241596Z" modified="2023-03-25T13:06:32.241613Z" visited="2023-03-25T13:06:32.241597Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-25T13:06:32.241604Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_5_Pro_463a487f/Internal%20shared%20storage/Apks" added="2023-03-25T13:08:09.232324Z" modified="2023-03-25T13:08:09.232328Z" visited="2023-03-25T13:08:09.232324Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-25T13:08:09.232326Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_5_Pro_463a487f/Internal%20shared%20storage/Magisk%20Modules/youtube-revanced-extended-magisk-v18.11.35-all.zip" added="2023-03-25T13:11:42.021643Z" modified="2023-03-25T13:11:42.021653Z" visited="2023-03-25T13:11:42.021646Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-25T13:11:42.021650Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_5_Pro_463a487f/Internal%20shared%20storage/Magisk%20Modules/mindetach-v3.3.zip" added="2023-03-25T13:11:48.572625Z" modified="2023-03-25T13:11:48.572635Z" visited="2023-03-25T13:11:48.572627Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-25T13:11:48.572630Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/youtube-revanced-extended-magisk-v18.11.35-all.zip" added="2023-03-25T13:12:31.356002Z" modified="2023-03-25T13:12:31.356018Z" visited="2023-03-25T13:12:31.356005Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-25T13:12:31.356012Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/mindetach-v3.3.zip" added="2023-03-25T13:12:37.572394Z" modified="2023-03-25T13:12:37.572408Z" visited="2023-03-25T13:12:37.572396Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-25T13:12:37.572402Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/%5BM%5DTeamDrivers_OpenGL-Vulkan_SD660_v5.5(55).zip" added="2023-03-26T06:45:05.050889Z" modified="2023-03-26T06:45:05.050900Z" visited="2023-03-26T06:45:05.050891Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-26T06:45:05.050896Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/DolbyAtmos-RC4-RyukiMod-v3.1.zip" added="2023-03-26T06:45:34.873625Z" modified="2023-03-26T06:45:34.873639Z" visited="2023-03-26T06:45:34.873627Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-26T06:45:34.873632Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/ForceFastCharging_Module.zip" added="2023-03-26T06:59:22.613732Z" modified="2023-03-26T06:59:22.613742Z" visited="2023-03-26T06:59:22.613735Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-26T06:59:22.613738Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/REPARTITION.zip" added="2023-03-26T07:07:06.817841Z" modified="2023-03-26T07:07:09.144787Z" visited="2023-03-26T07:07:06.817843Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-26T07:07:06.817845Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-26T07:07:09.144785Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/IMG_2023-03-26-17-27-44-800.jpg" added="2023-03-26T12:49:24.146373Z" modified="2023-03-26T12:49:24.875721Z" visited="2023-03-26T12:49:24.146373Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;eog %U&apos;" modified="2023-03-26T12:49:24.146375Z" count="1"/>
+          <bookmark:application name="Image Viewer" exec="&apos;eog %u&apos;" modified="2023-03-26T12:49:24.875719Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/Fastboot-20230327T054414Z-001.zip" added="2023-03-27T05:45:40.559057Z" modified="2023-03-27T05:45:40.559066Z" visited="2023-03-27T05:45:40.559059Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-27T05:45:40.559062Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/safetynet-fix-v2.4.0-MOD_1.2.zip" added="2023-03-27T06:31:23.029500Z" modified="2023-03-27T06:49:31.930892Z" visited="2023-03-27T06:31:23.029502Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-27T06:49:31.930850Z" count="4"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-27T06:31:26.310574Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/AncientOS-13-TexasCake-v7.1-whyred-Steel-20230326-2259-Vanilla.zip" added="2023-03-27T06:39:20.179560Z" modified="2023-03-27T06:39:20.179572Z" visited="2023-03-27T06:39:20.179562Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-27T06:39:20.179568Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/Magisk-v24.1.apk" added="2023-03-27T06:43:04.708312Z" modified="2023-03-27T06:43:17.316555Z" visited="2023-03-27T06:43:04.708314Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-27T06:43:17.316551Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/vbmeta.img" added="2023-03-27T09:21:20.099613Z" modified="2023-03-27T09:21:20.099623Z" visited="2023-03-27T09:21:20.099615Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-27T09:21:20.099620Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/FLASH" added="2023-03-27T09:54:46.131964Z" modified="2023-03-27T09:54:46.131969Z" visited="2023-03-27T09:54:46.131965Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-27T09:54:46.131967Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/FLASH/AncientOS-13-TexasCake-v7.1-whyred-Steel-20230326-2259-Vanilla/install/bin/backuptool.sh" added="2023-03-27T11:48:27.363850Z" modified="2023-03-27T11:48:27.363857Z" visited="2023-03-27T11:48:27.363851Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-shellscript"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-27T11:48:27.363854Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/crb316b.7z" added="2023-03-27T12:33:17.284484Z" modified="2023-03-27T12:33:23.697089Z" visited="2023-03-27T12:33:17.284487Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-27T12:33:17.284495Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-27T12:33:23.697086Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/SuperRs-Kitchen_Linux-64_v1.2.1.5.zip" added="2023-03-27T12:35:40.570662Z" modified="2023-03-27T12:35:40.570676Z" visited="2023-03-27T12:35:40.570664Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-27T12:35:40.570671Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/system-td-arm64-ab-vanilla.img.xz" added="2023-03-27T13:03:10.051874Z" modified="2023-03-27T13:07:39.008362Z" visited="2023-03-27T13:03:10.051876Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-27T13:03:10.051882Z" count="1"/>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;file-roller %U&apos;" modified="2023-03-27T13:07:38.482546Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-27T13:07:39.008360Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/FLASH/DFE_S1.zip" added="2023-03-27T13:11:37.770692Z" modified="2023-03-27T13:11:37.770706Z" visited="2023-03-27T13:11:37.770694Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-27T13:11:37.770700Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/FLASH/AncientOS-T-Shield-v7.1-arm64_bgN-Steel-20230325.img.xz" added="2023-03-27T13:19:11.970398Z" modified="2023-03-27T13:19:11.970410Z" visited="2023-03-27T13:19:11.970401Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image-xz-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-27T13:19:11.970405Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/FLASH/AncientOS-T-Shield-v7.1-arm64_bvN-Steel-20230325.img.xz" added="2023-03-27T13:21:34.681495Z" modified="2023-03-27T13:21:34.681506Z" visited="2023-03-27T13:21:34.681497Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image-xz-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-27T13:21:34.681502Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Xiaomi_Redmi_Note_5_Pro_463a487f/Internal%20Storage/ds" added="2023-03-27T13:35:33.494797Z" modified="2023-03-27T13:35:33.494804Z" visited="2023-03-27T13:35:33.494798Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-27T13:35:33.494801Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Redmi_Note_5_Pro_463a487f/Internal%20shared%20storage/TWRP/BACKUPS/463a487f/2023-03-27--04-37-02_TQ1A230205002/system.ext4.win000.sha2" added="2023-03-27T14:05:33.672637Z" modified="2023-03-27T14:05:33.672643Z" visited="2023-03-27T14:05:33.672638Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-27T14:05:33.672640Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/whyred_global_images_V12.0.2.0.PEIMIXM_20201224.0000.00_9.0_global/images/system.img" added="2023-03-28T07:45:44.874798Z" modified="2023-03-28T07:45:44.874803Z" visited="2023-03-28T07:45:44.874799Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-disk-image-mounter %U&apos;" modified="2023-03-28T07:45:44.874801Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Pictures/Screenshots/Screenshot%20from%202023-03-28%2016-22-58.png" added="2023-03-28T10:52:58.750889Z" modified="2023-03-28T10:52:58.750894Z" visited="2023-03-28T10:52:58.750890Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-03-28T10:52:58.750892Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/made-in-abyssmasterpiece-intricate-hyperdetailed-best-quality-flat-color-p...ired-by-final-fantasy-art-adventure-inspiring-colorful-heroic-fantasy-art_QRqe_pOU_upscaled.jpg" added="2023-03-28T11:25:20.462362Z" modified="2023-03-31T16:52:50.570021Z" visited="2023-03-28T11:25:20.462363Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-28T11:25:20.462366Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-31T16:52:50.570018Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Pictures/Screenshots/Screenshot%20from%202023-03-28%2017-08-47.png" added="2023-03-28T11:38:47.628005Z" modified="2023-03-28T11:38:47.628011Z" visited="2023-03-28T11:38:47.628006Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-03-28T11:38:47.628008Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Pictures/Screenshots/Screenshot%20from%202023-03-28%2017-20-09.png" added="2023-03-28T11:50:09.301089Z" modified="2023-03-28T11:50:09.301095Z" visited="2023-03-28T11:50:09.301090Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-03-28T11:50:09.301093Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/lineage-18.1-20221024-nightly-whyred-signed.zip" added="2023-03-28T11:59:30.946158Z" modified="2023-03-28T11:59:30.946173Z" visited="2023-03-28T11:59:30.946161Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-28T11:59:30.946166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/tg" added="2023-03-28T12:04:46.185458Z" modified="2023-03-28T12:04:46.185463Z" visited="2023-03-28T12:04:46.185459Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-28T12:04:46.185460Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/lineage-20.0-20230323-nightly-dipper-signed.zip" added="2023-03-29T15:07:29.371928Z" modified="2023-03-29T15:07:29.371937Z" visited="2023-03-29T15:07:29.371929Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-29T15:07:29.371933Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Xiaomi_Redmi_Note_5_Pro_463a487f/Internal%20Storage/FLASH" added="2023-03-29T16:38:10.559780Z" modified="2023-03-29T16:38:10.559785Z" visited="2023-03-29T16:38:10.559781Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-29T16:38:10.559783Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/microG_Installer_Revived.zip" added="2023-03-29T16:51:18.268135Z" modified="2023-03-29T16:51:18.268145Z" visited="2023-03-29T16:51:18.268137Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-29T16:51:18.268140Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/lineage-20.0-20230324-UNOFFICIAL-arm64_bvN.img.xz" added="2023-03-30T05:40:16.773286Z" modified="2023-03-30T05:40:16.773293Z" visited="2023-03-30T05:40:16.773287Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image-xz-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T05:40:16.773290Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Grey_Hack-Update_v0.8.4526a.7z" added="2023-03-30T07:02:57.382404Z" modified="2023-03-30T07:03:51.026738Z" visited="2023-03-30T07:02:57.382405Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-7z-compressed"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T07:02:57.382408Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-03-30T07:03:51.026735Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/GH_0.8.4526a.rar" added="2023-03-30T07:03:36.628925Z" modified="2023-03-30T07:03:36.628932Z" visited="2023-03-30T07:03:36.628927Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T07:03:36.628929Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Grey%20Hack" added="2023-03-30T07:05:37.680164Z" modified="2023-03-30T07:05:37.680169Z" visited="2023-03-30T07:05:37.680165Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Archive Manager" exec="&apos;file-roller %u&apos;" modified="2023-03-30T07:05:37.680166Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Grey%20Hack/steam_appid.EDIT_AND_RENAME.txt" added="2023-03-30T07:05:42.730641Z" modified="2023-03-30T07:05:42.730645Z" visited="2023-03-30T07:05:42.730642Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-text-editor %U&apos;" modified="2023-03-30T07:05:42.730643Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Grey%20Hack/Grey%20Hack.exe" added="2023-03-30T07:07:18.424284Z" modified="2023-03-30T07:07:18.424289Z" visited="2023-03-30T07:07:18.424285Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-03-30T07:07:18.424286Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/.themes/Tokyonight-qt5" added="2023-03-30T10:23:47.206001Z" modified="2023-03-30T10:26:23.878754Z" visited="2023-03-30T10:23:47.206003Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="kvantummanager" exec="&apos;kvantummanager %u&apos;" modified="2023-03-30T10:26:23.878752Z" count="7"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/.config/Kvantum" added="2023-03-30T10:27:25.997383Z" modified="2023-03-30T10:27:25.997388Z" visited="2023-03-30T10:27:25.997384Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-30T10:27:25.997385Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Mods/noclosemychat-v1.0.jar" added="2023-03-30T10:34:26.483915Z" modified="2023-03-30T10:36:58.718485Z" visited="2023-03-30T10:34:26.483918Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T10:34:26.483923Z" count="1"/>
+          <bookmark:application name="multimc" exec="&apos;multimc %u&apos;" modified="2023-03-30T10:36:58.718484Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Mods/Quickplay-1.8.9-2.0.7.jar" added="2023-03-30T10:34:34.300395Z" modified="2023-03-30T10:36:58.718454Z" visited="2023-03-30T10:34:34.300396Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T10:34:34.300401Z" count="1"/>
+          <bookmark:application name="multimc" exec="&apos;multimc %u&apos;" modified="2023-03-30T10:36:58.718451Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Mods/BetterFps-1.4.5-1.10.jar" added="2023-03-30T10:35:38.586891Z" modified="2023-03-30T10:36:58.718492Z" visited="2023-03-30T10:35:38.586893Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T10:35:38.586897Z" count="1"/>
+          <bookmark:application name="multimc" exec="&apos;multimc %u&apos;" modified="2023-03-30T10:36:58.718491Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Mods/OptiFine_1.8.9_HD_U_H5.jar" added="2023-03-30T10:35:58.682534Z" modified="2023-03-30T10:36:58.718499Z" visited="2023-03-30T10:35:58.682535Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T10:35:58.682538Z" count="1"/>
+          <bookmark:application name="multimc" exec="&apos;multimc %u&apos;" modified="2023-03-30T10:36:58.718498Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Mods/Orange&apos;s+1.7+Animations-6.7.jar" added="2023-03-30T10:36:32.469933Z" modified="2023-03-30T10:36:58.718478Z" visited="2023-03-30T10:36:32.469934Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-java-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T10:36:32.469938Z" count="1"/>
+          <bookmark:application name="multimc" exec="&apos;multimc %u&apos;" modified="2023-03-30T10:36:58.718476Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Mods/!%20Tightfault%20%5BRevamp%5D%20TECHNOBLADE%20EDIT.zip" added="2023-03-30T10:38:38.597263Z" modified="2023-03-30T10:38:46.704526Z" visited="2023-03-30T10:38:38.597265Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T10:38:38.597272Z" count="1"/>
+          <bookmark:application name="multimc" exec="&apos;multimc %u&apos;" modified="2023-03-30T10:38:46.704521Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="mtp://Xiaomi_Xiaomi_Redmi_Note_5_Pro_463a487f/Internal%20Storage/t" added="2023-03-30T12:11:45.026061Z" modified="2023-03-30T12:11:45.026066Z" visited="2023-03-30T12:11:45.026062Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-30T12:11:45.026063Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/Mods/NanoDroid-23.1.2.20210117.zip" added="2023-03-30T12:38:09.906039Z" modified="2023-03-30T12:38:09.906048Z" visited="2023-03-30T12:38:09.906040Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T12:38:09.906044Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/FLASH/NanoDroid-uninstaller-23.1.2.20210117.zip" added="2023-03-30T12:43:19.399106Z" modified="2023-03-30T12:43:19.399115Z" visited="2023-03-30T12:43:19.399108Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T12:43:19.399111Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/microG_Installer_Revived.zip" added="2023-03-30T12:49:49.669367Z" modified="2023-03-30T12:49:49.669378Z" visited="2023-03-30T12:49:49.669369Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T12:49:49.669372Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/MagiskGApps-v.a.13.CORE.24.2.23.zip" added="2023-03-30T16:28:18.760860Z" modified="2023-03-30T16:31:18.990276Z" visited="2023-03-30T16:28:18.760862Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T16:28:18.760866Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-30T16:31:18.990274Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/%5BMAGISK%5DLiteGapps++_20200906_official.zip" added="2023-03-30T16:44:23.970237Z" modified="2023-03-30T16:44:52.355731Z" visited="2023-03-30T16:44:23.970239Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T16:44:23.970242Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-30T16:44:52.355728Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/%5BMAGISK%5DLiteGapps_Core_arm64_13.0_v2.8_official.zip" added="2023-03-30T16:46:17.559825Z" modified="2023-03-30T16:47:02.138985Z" visited="2023-03-30T16:46:17.559828Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T16:46:17.559830Z" count="1"/>
+          <bookmark:application name="GSConnect" exec="&apos;gsconnect %u&apos;" modified="2023-03-30T16:47:02.138982Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/%5BMAGISK%5DLiteGapps_arm64_13.0_v2.8_official.zip" added="2023-03-30T16:49:30.687063Z" modified="2023-03-30T16:49:30.687084Z" visited="2023-03-30T16:49:30.687066Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T16:49:30.687075Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/BiTGApps-arm64-13.0.0-v1.9_signed.zip" added="2023-03-30T16:56:33.708445Z" modified="2023-03-30T16:56:33.708456Z" visited="2023-03-30T16:56:33.708446Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T16:56:33.708450Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/FLASH/BiTGApps-arm64-13.0.0-v1.9-BASIC.zip" added="2023-03-30T16:57:48.229589Z" modified="2023-03-30T16:57:48.229599Z" visited="2023-03-30T16:57:48.229591Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T16:57:48.229594Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Magisk%20Modules/music-revanced-magisk-v5.39.52-arm64-v8a.zip" added="2023-03-30T17:11:11.832021Z" modified="2023-03-30T17:11:11.832030Z" visited="2023-03-30T17:11:11.832023Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-30T17:11:11.832026Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/NikGapps-core-arm64-13-20230319-signed.zip" added="2023-03-31T16:07:17.224830Z" modified="2023-03-31T16:07:17.224838Z" visited="2023-03-31T16:07:17.224832Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-31T16:07:17.224835Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/com.whatsapp_2.23.7.17-230717004_minAPI16(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk" added="2023-03-31T16:23:16.614320Z" modified="2023-03-31T16:23:16.614329Z" visited="2023-03-31T16:23:16.614322Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-31T16:23:16.614326Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/Pix_Material_You_Icons_and_Widgets_6.1.Build_10_00de5c.apk" added="2023-03-31T16:48:33.393651Z" modified="2023-03-31T16:48:33.393659Z" visited="2023-03-31T16:48:33.393653Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.android.package-archive"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-03-31T16:48:33.393656Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/OrangeFox-R11.1-Stable-whyred.img" added="2023-04-01T18:10:18.790460Z" modified="2023-04-01T18:10:18.790467Z" visited="2023-04-01T18:10:18.790461Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-04-01T18:10:18.790464Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/OrangeFox-R11.1-Stable-whyred.zip" added="2023-04-01T18:10:32.657124Z" modified="2023-04-01T18:10:32.657139Z" visited="2023-04-01T18:10:32.657127Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-04-01T18:10:32.657132Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Pictures/Screenshots/Screenshot%20from%202023-04-01%2023-45-15.png" added="2023-04-01T18:15:15.845452Z" modified="2023-04-01T18:15:15.845459Z" visited="2023-04-01T18:15:15.845453Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="gnome-shell" exec="&apos;gnome-shell %u&apos;" modified="2023-04-01T18:15:15.845456Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/OrangeFox-whyred-stable@R11.1.zip" added="2023-04-01T18:17:30.089749Z" modified="2023-04-01T18:17:30.089758Z" visited="2023-04-01T18:17:30.089751Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-04-01T18:17:30.089754Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/FLASH/OrangeFox-R11.1-Stable-whyred.zip" added="2023-04-01T18:18:59.180444Z" modified="2023-04-01T18:18:59.180454Z" visited="2023-04-01T18:18:59.180445Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-04-01T18:18:59.180449Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Whyred/FLASH/OrangeFox-R11.1-Stable-whyred.img" added="2023-04-01T18:18:59.180474Z" modified="2023-04-01T18:18:59.180482Z" visited="2023-04-01T18:18:59.180474Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-04-01T18:18:59.180477Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/OrangeFox_R11_1_3_4_19_22_07_11_16_56_17_Unofficial_whyred_1.zip" added="2023-04-01T18:30:56.240952Z" modified="2023-04-01T18:30:59.393310Z" visited="2023-04-01T18:30:56.240954Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-04-01T18:30:56.240957Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-04-01T18:30:59.393307Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/PBRP-whyred-4.0-20230402-1606-UNOFFICIAL.zip" added="2023-04-02T10:37:33.236466Z" modified="2023-04-02T10:49:57.864722Z" visited="2023-04-02T10:37:33.236470Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-04-02T10:37:33.236478Z" count="1"/>
+          <bookmark:application name="File Roller" exec="&apos;file-roller&apos;" modified="2023-04-02T10:41:17.159532Z" count="1"/>
+          <bookmark:application name="Telegram Desktop" exec="&apos;telegram-desktop %u&apos;" modified="2023-04-02T10:49:57.864719Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/PBRP-whyred-4.0-20230402-1634-UNOFFICIAL.zip" added="2023-04-02T11:04:52.670524Z" modified="2023-04-02T12:06:22.457726Z" visited="2023-04-02T11:04:52.670526Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-04-02T12:06:22.457723Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/PBRP-whyred-4.0-20230402-1634-UNOFFICIAL/TWRP/recovery.img" added="2023-04-02T13:58:23.169918Z" modified="2023-04-02T13:58:23.169925Z" visited="2023-04-02T13:58:23.169919Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-raw-disk-image"/>
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;gnome-disk-image-mounter %U&apos;" modified="2023-04-02T13:58:23.169921Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Downloads/OG5564-YEYOGR.rar" added="2023-04-03T06:49:47.800591Z" modified="2023-04-03T06:49:47.800601Z" visited="2023-04-03T06:49:47.800593Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.rar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;LibreWolf %u&apos;" modified="2023-04-03T06:49:47.800597Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/mihir/Games/Yes.Your.Grace-GOG/Yes,%20Your%20Grace.exe" added="2023-04-03T06:59:44.731125Z" modified="2023-04-03T06:59:44.731132Z" visited="2023-04-03T06:59:44.731126Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="Lutris" exec="&apos;lutris %u&apos;" modified="2023-04-03T06:59:44.731128Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

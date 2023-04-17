@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Uninstall Octopath Traveler
+Exec=env WINEPREFIX="/home/mihir/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Octopath\\ Traveler\\\\Uninstall\\ Octopath\\ Traveler.lnk
+Type=Application
+StartupNotify=true
+Path=/home/mihir/Games/Octopath Traveler
+Icon=F848_unins000.0
+StartupWMClass=unins000.exe

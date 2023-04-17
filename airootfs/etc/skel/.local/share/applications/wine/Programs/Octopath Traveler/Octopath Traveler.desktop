@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Octopath Traveler
+Exec=env WINEPREFIX="/home/mihir/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Octopath\\ Traveler\\\\Octopath\\ Traveler.lnk
+Type=Application
+StartupNotify=true
+Path=/home/mihir/Games/Octopath Traveler
+Icon=D82D_Octopath_Traveler.0
+StartupWMClass=octopath_traveler.exe

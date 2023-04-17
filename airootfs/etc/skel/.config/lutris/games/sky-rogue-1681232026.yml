@@ -1,0 +1,6 @@
+game:
+  exe: /home/mihir/Games/Sky Rogue/skyrogue.exe
+system: {}
+wine:
+  battleye: false
+  eac: false

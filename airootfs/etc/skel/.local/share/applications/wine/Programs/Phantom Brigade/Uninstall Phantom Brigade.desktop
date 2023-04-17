@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Uninstall Phantom Brigade
+Exec=env WINEPREFIX="/home/mihir/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Phantom\\ Brigade\\\\Uninstall\\ Phantom\\ Brigade.lnk
+Type=Application
+StartupNotify=true
+Path=/home/mihir/Games/Phantom Brigade
+Icon=89CA_unins000.0
+StartupWMClass=unins000.exe

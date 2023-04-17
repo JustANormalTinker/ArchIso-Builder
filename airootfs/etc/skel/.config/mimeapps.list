@@ -1,0 +1,26 @@
+[Added Associations]
+x-scheme-handler/sms=org.gnome.Shell.Extensions.GSConnect.desktop;
+x-scheme-handler/tel=org.gnome.Shell.Extensions.GSConnect.desktop;
+text/plain=org.gnome.TextEditor.desktop;
+application/x-rpm=org.gnome.FileRoller.desktop;
+video/x-matroska=mpv.desktop;
+text/x-java=org.gnome.TextEditor.desktop;
+application/x-shellscript=org.gnome.TextEditor.desktop;
+image/jpeg=org.gnome.eog.desktop;
+video/mp4=mpv.desktop;
+application/zip=org.gnome.FileRoller.desktop;
+
+[Default Applications]
+text/plain=org.gnome.TextEditor.desktop
+application/x-rpm=org.gnome.FileRoller.desktop
+video/x-matroska=mpv.desktop
+text/x-java=org.gnome.TextEditor.desktop
+application/x-shellscript=org.gnome.TextEditor.desktop
+image/jpeg=org.gnome.eog.desktop
+video/mp4=mpv.desktop
+application/zip=org.gnome.FileRoller.desktop
+text/html=librewolf.desktop
+x-scheme-handler/http=librewolf.desktop
+x-scheme-handler/https=librewolf.desktop
+x-scheme-handler/about=librewolf.desktop
+x-scheme-handler/unknown=librewolf.desktop

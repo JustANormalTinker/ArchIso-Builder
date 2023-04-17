@@ -1,0 +1,8 @@
+game:
+  exe: /home/mihir/Games/Total War Rome II Rise of the Republic/Rome2.exe
+system: {}
+wine:
+  battleye: false
+  eac: false
+  fsr: false
+  version: lutris-GE-Proton7-37-x86_64

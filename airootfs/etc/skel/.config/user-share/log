@@ -1,0 +1,9 @@
+[Wed Mar 22 17:12:03.290022 2023] [mpm_prefork:notice] [pid 4452] AH00163: Apache/2.4.56 (Unix) configured -- resuming normal operations
+[Wed Mar 22 17:12:03.290108 2023] [core:notice] [pid 4452] AH00094: Command line: '/usr/bin/httpd -f /usr/share/gnome-user-share/dav_user_2.4.conf -C Listen 41169 -D RequirePasswordAlways'
+[Wed Mar 22 17:12:06.204688 2023] [mpm_prefork:notice] [pid 4452] AH00169: caught SIGTERM, shutting down
+[Wed Mar 22 17:12:07.253578 2023] [mpm_prefork:notice] [pid 4457] AH00163: Apache/2.4.56 (Unix) configured -- resuming normal operations
+[Wed Mar 22 17:12:07.253664 2023] [core:notice] [pid 4457] AH00094: Command line: '/usr/bin/httpd -f /usr/share/gnome-user-share/dav_user_2.4.conf -C Listen 39837'
+[Wed Mar 22 17:12:47.469553 2023] [mpm_prefork:notice] [pid 4457] AH00169: caught SIGTERM, shutting down
+[Wed Mar 22 17:14:25.329644 2023] [mpm_prefork:notice] [pid 4763] AH00163: Apache/2.4.56 (Unix) configured -- resuming normal operations
+[Wed Mar 22 17:14:25.329739 2023] [core:notice] [pid 4763] AH00094: Command line: '/usr/bin/httpd -f /usr/share/gnome-user-share/dav_user_2.4.conf -C Listen 40805'
+[Wed Mar 22 17:14:37.539698 2023] [mpm_prefork:notice] [pid 4763] AH00169: caught SIGTERM, shutting down

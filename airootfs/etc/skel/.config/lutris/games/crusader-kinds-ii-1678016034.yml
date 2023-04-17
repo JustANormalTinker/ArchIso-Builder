@@ -1,0 +1,18 @@
+game:
+  exe: /home/mihir/Games/Crusader Kings II/CK2game.exe
+  prefix: /home/mihir/.winelutris
+system:
+  dri_prime: false
+  gamemode: false
+  vk_icd: /usr/share/vulkan/icd.d/nvidia_icd.json
+  xephyr_fullscreen: false
+wine:
+  battleye: false
+  d3d_extras: false
+  dxvk: true
+  dxvk_nvapi: false
+  dxvk_version: v1.10.3
+  eac: false
+  fsr: false
+  version: lutris-7.2-2-x86_64
+  vkd3d: false

@@ -1,0 +1,46 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="3" l="1681476481221" />
+    </e>
+    <e n="$Undo">
+      <i c="2" l="1681476573834" />
+    </e>
+    <e n="Android.DeviceManager">
+      <i c="1" l="1681475666010" />
+    </e>
+    <e n="Back">
+      <i c="2" l="1681476371001" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="1" l="1681476434177" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1681476120244" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1681475506654" />
+    </e>
+    <e n="WelcomeScreen.RunDeviceManager">
+      <i c="4" l="1681475491683" />
+    </e>
+    <e n="com.android.tools.adtui.actions.DropDownAction">
+      <i c="1" l="1681476320271" />
+    </e>
+    <e n="com.android.tools.idea.configurations.DeviceMenuAction2">
+      <i c="1" l="1681476252221" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$4">
+      <i c="2" l="1681476020549" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="3" l="1681476210672" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1681476205014" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1681475585724" />
+    </e>
+  </component>
+</application>

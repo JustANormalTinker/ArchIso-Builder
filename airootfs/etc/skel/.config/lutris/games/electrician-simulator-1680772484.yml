@@ -1,0 +1,9 @@
+game:
+  exe: /home/mihir/Games/Electrician Simulator/Electrician.exe
+  prefix: ''
+system: {}
+wine:
+  battleye: false
+  eac: false
+  fsr: false
+  version: lutris-GE-Proton7-37-x86_64

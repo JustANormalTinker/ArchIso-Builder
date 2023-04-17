@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="dav://192.168.1.14:8181/" added="2023-03-20T14:40:09.668567Z" modified="2023-03-20T14:40:09.668574Z" visited="2023-03-20T14:40:09.668568Z">
+    <title>0</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-20T14:40:09.668570Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="ftp://192.168.1.1/" added="2023-03-22T08:18:52.370488Z" modified="2023-03-22T08:18:52.370493Z" visited="2023-03-22T08:18:52.370489Z">
+    <title>/ on 192.168.1.1</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-22T08:18:52.370491Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="ftp://192.168.1.8:2121/" added="2023-03-23T16:20:10.014741Z" modified="2023-03-23T16:20:10.014746Z" visited="2023-03-23T16:20:10.014742Z">
+    <title>/ on 192.168.1.8:2121</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-23T16:20:10.014743Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="dav://192.168.1.8:8181/" added="2023-03-23T16:21:03.308383Z" modified="2023-03-23T16:21:03.308389Z" visited="2023-03-23T16:21:03.308385Z">
+    <title>0</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-23T16:21:03.308386Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="dav://192.168.1.7:8181/" added="2023-03-25T12:17:03.550527Z" modified="2023-03-25T12:17:03.550532Z" visited="2023-03-25T12:17:03.550527Z">
+    <title>0</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-25T12:17:03.550529Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="dav://192.168.1.3:8181/" added="2023-03-27T09:41:56.082012Z" modified="2023-03-30T11:43:25.805651Z" visited="2023-03-30T11:43:25.805638Z">
+    <title>0</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-03-30T11:43:25.805639Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="dav://192.168.1.10:8181/" added="2023-04-06T06:38:14.928979Z" modified="2023-04-06T06:41:08.585605Z" visited="2023-04-06T06:41:08.585602Z">
+    <title>0</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-04-06T06:41:08.585603Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="ftp://192.168.1.10:2121/" added="2023-04-06T06:40:01.304688Z" modified="2023-04-06T06:40:01.304693Z" visited="2023-04-06T06:40:01.304689Z">
+    <title>/ on 192.168.1.10:2121</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-04-06T06:40:01.304691Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="dav://192.168.1.5:8181/" added="2023-04-06T06:44:16.224311Z" modified="2023-04-06T06:44:16.224317Z" visited="2023-04-06T06:44:16.224312Z">
+    <title>0</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2023-04-06T06:44:16.224314Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

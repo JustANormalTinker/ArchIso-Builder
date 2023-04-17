@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Torque Drift
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/1029550
+Icon=steam_icon_1029550
+Terminal=false
+Type=Application
+Categories=Game;

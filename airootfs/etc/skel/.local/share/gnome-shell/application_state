@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.TextEditor.desktop" score="0.0025787353515625" last-seen="1681543016"/>
+    <application id="android-studio.desktop" score="0.002197265625" last-seen="1681476105"/>
+    <application id="tabby.desktop" score="84.03131103515625" last-seen="1681668554"/>
+    <application id="multimc.desktop" score="0.002227783203125" last-seen="1681219172"/>
+    <application id="xdg-desktop-portal-gnome.desktop" score="0" last-seen="1681189419"/>
+    <application id="com.mattjakeman.ExtensionManager.desktop" score="0" last-seen="1681623462"/>
+    <application id="net.lutris.Lutris.desktop" score="0.00225830078125" last-seen="1681666457"/>
+    <application id="chromium.desktop" score="0.01634979248046875" last-seen="1681571212"/>
+    <application id="org.gnome.Shell.Extensions.GSConnect.Preferences.desktop" score="0" last-seen="1681404746"/>
+    <application id="org.gnome.Software.desktop" score="0.000335693359375" last-seen="1681377553"/>
+    <application id="ca.desrt.dconf-editor.desktop" score="0.000396728515625" last-seen="1681618111"/>
+    <application id="torbrowser.desktop" score="0.00054931640625" last-seen="1681231346"/>
+    <application id="scrcpy.desktop" score="0.01303863525390625" last-seen="1681150296"/>
+    <application id="org.gnome.Settings.desktop" score="0.000885009765625" last-seen="1681655048"/>
+    <application id="com.leinardi.gwe.desktop" score="0.0001220703125" last-seen="1681667447"/>
+    <application id="steam-native.desktop" score="2" last-seen="1681667559"/>
+    <application id="org.gnome.Shell.Extensions.desktop" score="0" last-seen="1681623461"/>
+    <application id="org.qbittorrent.qBittorrent.desktop" score="0.0009613037109375" last-seen="1681623401"/>
+    <application id="librewolf.desktop" score="18777.748931884766" last-seen="1681668588"/>
+    <application id="org.gnome.DiskUtility.desktop" score="0.0009765625" last-seen="1681581905"/>
+    <application id="org.gnome.Nautilus.desktop" score="3.0264053344726562" last-seen="1681668588"/>
+    <application id="minecraft-launcher.desktop" score="0.0023193359375" last-seen="1681295931"/>
+    <application id="org.ppsspp.PPSSPP.desktop" score="0.004730224609375" last-seen="1681382153"/>
+    <application id="org.telegram.desktop.desktop" score="0.060455322265625" last-seen="1681623669"/>
+    <application id="org.gnome.FileRoller.desktop" score="0.0016021728515625" last-seen="1681637375"/>
+    <application id="mpv.desktop" score="0.0088653564453125" last-seen="1681627161"/>
+  </context>
+</application-state>

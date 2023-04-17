@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Phantom Brigade
+Exec=env WINEPREFIX="/home/mihir/.wine" wine C:\\\\ProgramData\\\\Microsoft\\\\Windows\\\\Start\\ Menu\\\\Programs\\\\Phantom\\ Brigade\\\\Phantom\\ Brigade.lnk
+Type=Application
+StartupNotify=true
+Path=/home/mihir/Games/Phantom Brigade
+Icon=CCDA_PhantomBrigade-2.0
+StartupWMClass=phantombrigade.exe
