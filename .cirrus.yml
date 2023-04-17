@@ -6,7 +6,9 @@ container:
   use_in_memory_disk: true
 task:
   build_script:
+      - chmod +x ./build.sh
       - ./build.sh
   upload_script:
+      - chmod +x ./upload.sh
       - ./upload.sh
 
