@@ -1,0 +1,1 @@
+curl --upload-file output/*.iso https://free.keep.sh

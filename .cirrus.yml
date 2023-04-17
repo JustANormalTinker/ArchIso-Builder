@@ -2,7 +2,8 @@ container:
   image: archlinux:base-devel
   cpu: 4
   memory: 8G
-
+  greedy: true
+  use_in_memory_disk: true
 task:
   build_script:
       - ./build.sh
