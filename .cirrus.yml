@@ -1,0 +1,11 @@
+container:
+  image: archlinux:base-devel
+  cpu: 4
+  memory: 8G
+
+task:
+  build_script:
+      - ./build.sh
+  upload_script:
+      - ./upload.sh
+
