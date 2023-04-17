@@ -9,6 +9,8 @@ task:
   build_script:
       - chmod +x ./build.sh
       - ./build.sh
+  build_cache: 
+      folder: /tmp/cirrus-ci-build/output/    
   upload_script:
       - chmod +x ./upload.sh
       - ./upload.sh
