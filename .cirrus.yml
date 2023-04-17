@@ -6,6 +6,8 @@ container:
   use_in_memory_disk: true
   kvm: true
 task:
+  build_script_cache:
+      folder: /var/cache/pacman/pkg
   build_script:
       - chmod +x ./build.sh
       - ./build.sh   
