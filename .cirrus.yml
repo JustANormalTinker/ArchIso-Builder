@@ -1,7 +1,7 @@
 container:
   image: archlinux:base-devel
   cpu: 8
-  memory: 16G
+  memory: 8G
   greedy: true
   use_in_memory_disk: true
   kvm: true
