@@ -4,7 +4,8 @@ container:
   memory: 8G
   greedy: true
   use_in_memory_disk: true
-docker_builder:
+  kvm: true
+task:
   build_script:
       - chmod +x ./build.sh
       - ./build.sh
