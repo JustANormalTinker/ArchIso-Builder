@@ -1,2 +1,2 @@
-pacman -S archiso --noconfirm
+pacman -Sy archiso --noconfirm
 mkarchiso -v -w /tmp/archiso-tmp -o output/
